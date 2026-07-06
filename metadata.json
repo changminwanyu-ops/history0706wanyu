@@ -1,0 +1,6 @@
+{
+  "name": "台灣歷史事件排序小遊戲",
+  "description": "精美的互動式台灣歷史事件拖曳排序小遊戲，使用 Drag and Drop API 與精緻卡片式設計。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
